@@ -3,9 +3,9 @@ import { StyleSheet, Text, View } from 'react-native';
 import { MaterialCommunityIcons } from '@expo/vector-icons'; 
 import axios from 'axios';
 
-const url = `https://io.adafruit.com/api/v2/jonatas_tonholo/feeds/tp-iot.status/data`;
+const url = `adafruit url`;
 const headers = {
-  'X-AIO-Key': 'aio_FWjH4408o3lobc2r8SxgM3x4wMTr',
+  'X-AIO-Key': 'adafruit key',
 }
 
 export default function App() {
